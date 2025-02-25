@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Astra';
+    src: url('/fonts/astra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal; 
+}
